@@ -1,0 +1,2 @@
+** Library folder has been deleted to reduce space **
+Import project into Unity - click play button

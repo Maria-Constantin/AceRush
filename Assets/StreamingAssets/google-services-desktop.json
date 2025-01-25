@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530466574119",
+    "firebase_url": "https://pocketaces-40bdb-default-rtdb.firebaseio.com",
+    "project_id": "pocketaces-40bdb",
+    "storage_bucket": "pocketaces-40bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530466574119:android:a720885b454324e95fe302",
+        "android_client_info": {
+          "package_name": "com.company.PocketAces"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNyKKeEpxY88TkaEdMl54St1GE5VYcng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

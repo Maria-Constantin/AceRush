@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: b030cc891a7083f4180a8d4d491e37e0
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: ec88acd341594cc4187ab5f36c63ac7e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Singleplayer-pickbots.unity
+    guid: a2574b092f8d9ec42878e5c69b3dc538
+  - enabled: 1
+    path: Assets/Scenes/SGameroom.unity
+    guid: a4f8d154563359842a58a006e2dfabe9
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 238ba1f840b89b145a03aff6c09529a6
+  m_configObjects: {}
